@@ -1,4 +1,4 @@
-# Tensorflow to ncnn
+# tensorflow to ncnn
 
 这里以 https://github.com/GantMan/nsfw_model 为例介绍下怎么把tensorflow2模型转换为ncnn模型。[nsfw tf model下载](https://github.com/GantMan/nsfw_model/releases/download/1.2.0/mobilenet_v2_140_224.1.zip)
 
