@@ -27,3 +27,11 @@
 1. 执行ncnn的extract，看squeeze的输入`299:12`，是1792 x 1 x 1
 3. 所以把152行替换为：`Squeeze          op_252                   1 1 299:12 300:12 0=1 1=1 2=1792`  
 注：squeeze后实际上是1792，不过和1792 x 1没区别
+
+#### Reference:
+https://zhuanlan.zhihu.com/p/152535430  
+
+
+#### 心情好，打赏一下
+![webwxgetmsgimg ](https://user-images.githubusercontent.com/2231483/147183811-c8832374-adf4-4351-b898-b1ec75e2cf9d.jpeg)
+
